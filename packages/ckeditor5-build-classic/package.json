@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
+  "name": "@igorblack/ckeditor5-custom-classic-base64-maximize",
   "version": "26.0.0",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "description": "Custom build based on Classic build with added base64 upload adapter and full screen support plugin",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
